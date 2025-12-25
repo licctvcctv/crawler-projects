@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .venv/
 venv/
-env/
+ENV/
 
 # Data files
 *.csv
@@ -13,14 +13,8 @@ data/
 output/
 
 # IDE
-.idea/
 .vscode/
-*.swp
-*.swo
+.idea/
 
 # OS
 .DS_Store
-Thumbs.db
-
-# Logs
-*.log
